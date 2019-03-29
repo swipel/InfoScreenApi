@@ -1,0 +1,14 @@
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\bin\Debug\netcoreapp2.2\InfoScreenApi.deps.json
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\bin\Debug\netcoreapp2.2\InfoScreenApi.runtimeconfig.json
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\bin\Debug\netcoreapp2.2\InfoScreenApi.runtimeconfig.dev.json
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\bin\Debug\netcoreapp2.2\InfoScreenApi.dll
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\bin\Debug\netcoreapp2.2\InfoScreenApi.pdb
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.csprojAssemblyReference.cache
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.csproj.CoreCompileInputs.cache
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.RazorAssemblyInfo.cache
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.RazorAssemblyInfo.cs
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.AssemblyInfoInputs.cache
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.AssemblyInfo.cs
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.RazorTargetAssemblyInfo.cache
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.dll
+C:\Users\Christoffer\JetBrains\RiderProjects\InfoScreenApi\InfoScreenApi\obj\Debug\netcoreapp2.2\InfoScreenApi.pdb
